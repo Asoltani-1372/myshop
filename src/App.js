@@ -1,4 +1,3 @@
-import Categories from "./components/Categories";
 import Home from "./Pages/Home";
 
 
