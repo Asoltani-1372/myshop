@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.ibb.co/XsdmR2c/1.png",
+      img: "https://i.ibb.co/DG69bQ4/2.png",
       title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
@@ -25,17 +25,17 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://img.freepik.com/free-photo/attractive-curly-woman-purple-cashmere-sweater-fuchsia-sunglasses-poses-isolated-wall_197531-24158.jpg?w=996&t=st=1667720224~exp=1667720824~hmac=59e8317062d19c963229ee7ba30464d333f61be69a39fcd9b831a8daa02905d5",
       title: "SHIRT STYLE!",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://img.freepik.com/premium-photo/concept-people-young-woman-light-background_185193-90673.jpg?w=996",
       title: "LOUNGEWEAR LOVE",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://img.freepik.com/free-psd/female-t-shirt-print-concept_23-2147642302.jpg?w=740&t=st=1667721090~exp=1667721690~hmac=cd9bd65b6a9b186ce10208c35102dc4487862711c1232ff0b662040fe7ebfb38",
       title: "LIGHT JACKETS",
     },
   ];
@@ -47,7 +47,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://img.freepik.com/free-psd/colorful-shirt-concept-mock-up_23-2148411345.jpg?w=360&t=st=1667721339~exp=1667721939~hmac=a9e6400af9f209d901f25c718993a8f4df6fab06886bf32978bf0601ee02e47a",
     },
     {
       id:3,
@@ -55,7 +55,7 @@ export const sliderItems = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://img.freepik.com/free-psd/colorful-shirt-concept-mock-up_23-2148411332.jpg?w=360&t=st=1667721434~exp=1667722034~hmac=45de9895344657783e10278e6fa8e5c7c9980bb5d2fe6907f60e30ac2d0c398a",
     },
     {
       id:5,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://img.freepik.com/free-psd/white-t-shirt-model-front-view-mockup_125540-861.jpg?w=996&t=st=1667721535~exp=1667722135~hmac=261ea0d7edb92f4d867c4bc5b3049fbc0aa6e6ce7cffa9225daed91f11d9d072",
     },
     {
       id:8,
