@@ -27,16 +27,19 @@ export const sliderItems = [
       id: 1,
       img: "https://img.freepik.com/free-photo/attractive-curly-woman-purple-cashmere-sweater-fuchsia-sunglasses-poses-isolated-wall_197531-24158.jpg?w=996&t=st=1667720224~exp=1667720824~hmac=59e8317062d19c963229ee7ba30464d333f61be69a39fcd9b831a8daa02905d5",
       title: "SHIRT STYLE!",
+      cat : "Coat"
     },
     {
       id: 2,
       img: "https://img.freepik.com/premium-photo/concept-people-young-woman-light-background_185193-90673.jpg?w=996",
       title: "LOUNGEWEAR LOVE",
+      cat: "Dress"
     },
     {
       id: 3,
       img: "https://img.freepik.com/free-psd/female-t-shirt-print-concept_23-2147642302.jpg?w=740&t=st=1667721090~exp=1667721690~hmac=cd9bd65b6a9b186ce10208c35102dc4487862711c1232ff0b662040fe7ebfb38",
       title: "LIGHT JACKETS",
+      cat : "jacket"
     },
   ];
 
